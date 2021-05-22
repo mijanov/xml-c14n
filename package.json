@@ -1,11 +1,11 @@
 {
   "name": "xml-c14n",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "XML canonicalisation",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/deoxxa/xml-c14n.git"
+    "url": "git://github.com/mijanov/xml-c14n.git"
   },
   "keywords": [
     "xml",
